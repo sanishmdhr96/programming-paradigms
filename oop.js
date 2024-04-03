@@ -19,7 +19,7 @@ class User {
     }
 
     greet() {
-        console.log('Hi, I am ' + this.userName);
+        console.info('Hi, I am ' + this.userName);
     }
 }
 
